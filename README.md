@@ -66,7 +66,7 @@ Instructions
 
    ![main.py](http://i.imgur.com/oNFEdsp.png)
 
-20. Download Google App Engine SDK for Python from https://cloud.google.com/appengine/downloads and install it.
+20. Deprecated 20-23. Download Google App Engine SDK for Python from https://cloud.google.com/appengine/downloads and install it.
 
 21. Run the GoogleAppEngineLauncher application.
 
